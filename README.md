@@ -3,12 +3,12 @@
 Calcula el diametro de un arbol con BFS en O(2 |V|)
 
 compila:
-	```Bash
+	``` 
 	$ javac TreeDiameter.java
 	``
 
 ejecuta:
-	```Bash
+	```BASH
 	$ java TreeDiameter datos.txt
 	```
 
